@@ -1,51 +1,82 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T18:46:53.099Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/119.0" version="22.1.4" etag="dVt9-XHO-R9lzB8szyJV" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-27T19:01:19.942Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/119.0" etag="yTz48LcXNFnK0SlEih87" version="22.1.4" type="github">
   <diagram name="Page-1" id="O4MCNGeHvffAUl4Sw91W">
-    <mxGraphModel>
+    <mxGraphModel dx="1804" dy="1742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="Audio Visual" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry y="127" width="103" height="35" as="geometry" />
+        <mxCell id="2" value="HDMI Matrix " style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="322" y="400" width="103" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="3" value="TV" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="201" width="35" height="35" as="geometry" />
+        <mxCell id="ZQ4kMWdcflTAXWc-kiNd-27" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4" target="ZQ4kMWdcflTAXWc-kiNd-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4" value="Speaker" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="182" y="85" width="73" height="35" as="geometry" />
+        <mxCell id="ZQ4kMWdcflTAXWc-kiNd-29" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4" target="ZQ4kMWdcflTAXWc-kiNd-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5" value="Blu-ray Player" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="ZQ4kMWdcflTAXWc-kiNd-30" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="4" target="ZQ4kMWdcflTAXWc-kiNd-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQ4kMWdcflTAXWc-kiNd-31" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="4" target="ZQ4kMWdcflTAXWc-kiNd-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQ4kMWdcflTAXWc-kiNd-32" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="4" target="ZQ4kMWdcflTAXWc-kiNd-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Receiver" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="370" y="15" width="73" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Blu-ray Player" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="160" y="169" width="117" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="6" value="Gaming Console" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="153" y="254" width="130" height="35" as="geometry" />
+        <mxCell id="6" value="Playstation" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="313" y="515" width="130" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.6015396245269504;exitY=-0.007142857142857143;entryX=-0.0061902727399553575;entryY=0.4928571428571429;" edge="1" parent="1" source="2" target="3">
+        <mxCell id="ZQ4kMWdcflTAXWc-kiNd-34" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ZQ4kMWdcflTAXWc-kiNd-10" target="4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="128" y="17" />
+              <mxPoint x="600" y="258" />
+              <mxPoint x="600" y="33" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.8038097874015808;exitY=-0.007142857142857143;entryX=-0.0036528600405340327;entryY=0.4785714285714286;" edge="1" parent="1" source="2" target="4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="128" y="102" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="ZQ4kMWdcflTAXWc-kiNd-10" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.video_projector;" vertex="1" parent="1">
+          <mxGeometry x="343" y="240" width="100" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.8038097874015808;exitY=0.9785714285714285;entryX=-0.001495654766376202;entryY=0.4928571428571429;" edge="1" parent="1" source="2" target="5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="128" y="186" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="ZQ4kMWdcflTAXWc-kiNd-12" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.monitor;" vertex="1" parent="1">
+          <mxGeometry x="-110" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.6015396245269504;exitY=0.9785714285714285;entryX=0.0006410452035757212;entryY=0.4785714285714286;" edge="1" parent="1" source="2" target="6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="128" y="271" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="ZQ4kMWdcflTAXWc-kiNd-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.48;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="2" target="ZQ4kMWdcflTAXWc-kiNd-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQ4kMWdcflTAXWc-kiNd-16" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2" target="ZQ4kMWdcflTAXWc-kiNd-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQ4kMWdcflTAXWc-kiNd-24" value="" style="group;fillColor=default;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="233" width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQ4kMWdcflTAXWc-kiNd-22" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="ZQ4kMWdcflTAXWc-kiNd-24">
+          <mxGeometry width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQ4kMWdcflTAXWc-kiNd-23" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="ZQ4kMWdcflTAXWc-kiNd-24">
+          <mxGeometry x="26" y="30" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQ4kMWdcflTAXWc-kiNd-21" value="Front Left Speaker" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f7d0fc;strokeColor=#D79B00;" vertex="1" parent="1">
+          <mxGeometry x="262" y="-86" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQ4kMWdcflTAXWc-kiNd-17" value="Rear Right Speaker" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="462" y="90" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQ4kMWdcflTAXWc-kiNd-18" value="Rear Left Speaker" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="262" y="90" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQ4kMWdcflTAXWc-kiNd-19" value="&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;Center&lt;/font&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;Speaker&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1A1A1A;strokeColor=#D79B00;" vertex="1" parent="1">
+          <mxGeometry x="362" y="-86" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQ4kMWdcflTAXWc-kiNd-20" value="Front Right Speaker" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCFFF;strokeColor=#D79B00;" vertex="1" parent="1">
+          <mxGeometry x="462" y="-86" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQ4kMWdcflTAXWc-kiNd-33" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=50;entryDy=50;entryPerimeter=0;" edge="1" parent="1" source="4" target="ZQ4kMWdcflTAXWc-kiNd-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
