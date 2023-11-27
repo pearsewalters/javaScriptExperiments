@@ -1,0 +1,53 @@
+<mxfile host="app.diagrams.net" modified="2023-11-27T18:46:53.099Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/119.0" version="22.1.4" etag="dVt9-XHO-R9lzB8szyJV" type="github">
+  <diagram name="Page-1" id="O4MCNGeHvffAUl4Sw91W">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Audio Visual" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry y="127" width="103" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="TV" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="201" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Speaker" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="182" y="85" width="73" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Blu-ray Player" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="160" y="169" width="117" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Gaming Console" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="153" y="254" width="130" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.6015396245269504;exitY=-0.007142857142857143;entryX=-0.0061902727399553575;entryY=0.4928571428571429;" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="128" y="17" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.8038097874015808;exitY=-0.007142857142857143;entryX=-0.0036528600405340327;entryY=0.4785714285714286;" edge="1" parent="1" source="2" target="4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="128" y="102" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.8038097874015808;exitY=0.9785714285714285;entryX=-0.001495654766376202;entryY=0.4928571428571429;" edge="1" parent="1" source="2" target="5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="128" y="186" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.6015396245269504;exitY=0.9785714285714285;entryX=0.0006410452035757212;entryY=0.4785714285714286;" edge="1" parent="1" source="2" target="6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="128" y="271" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
