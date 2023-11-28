@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-11-28T19:02:31.880Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/119.0" etag="GkTxWOztX_zgrrftDjat" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-28T19:06:05.044Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/119.0" etag="4pFi2YwDByt_iY6KZIQ1" version="22.1.4" type="github">
   <diagram name="Page-1" id="O4MCNGeHvffAUl4Sw91W">
     <mxGraphModel dx="830" dy="1658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZQ4kMWdcflTAXWc-kiNd-177" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=50;entryDy=50;entryPerimeter=0;" edge="1" parent="1" source="ZQ4kMWdcflTAXWc-kiNd-136" target="ZQ4kMWdcflTAXWc-kiNd-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2" value="HDMI Matrix " style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="263" y="-390" width="103" height="35" as="geometry" />
         </mxCell>
@@ -95,12 +98,12 @@
         <mxCell id="ZQ4kMWdcflTAXWc-kiNd-47" value="&lt;h1&gt;Current Setup&lt;br&gt;&lt;/h1&gt;This setup works, but is flawed in that the sound (from the computer, chromecast, or playstation) is sent first to the projector (HDMI) and then to the receiver (3.5mm split to RCA). This means that any sound signal that is larger than stereo x2 is lost (not entirely, but the projector doesn&#39;t mix 7.1 or 5.1 down to 2.1. I think the receiver might be able to split a 2.1 into 5.1, but best to just have a receiver that can receive a native HDMI signal." style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="563" y="-866" width="190" height="266" as="geometry" />
         </mxCell>
-        <mxCell id="ZQ4kMWdcflTAXWc-kiNd-169" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="ZQ4kMWdcflTAXWc-kiNd-130" target="ZQ4kMWdcflTAXWc-kiNd-136">
+        <mxCell id="ZQ4kMWdcflTAXWc-kiNd-169" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="ZQ4kMWdcflTAXWc-kiNd-130" target="ZQ4kMWdcflTAXWc-kiNd-136">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="296" y="630" />
+              <mxPoint x="297" y="630" />
               <mxPoint x="540" y="630" />
-              <mxPoint x="540" y="335" />
+              <mxPoint x="540" y="551" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -112,23 +115,23 @@
         <mxCell id="ZQ4kMWdcflTAXWc-kiNd-130" value="HDMI Matrix " style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="245" y="711" width="103" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="ZQ4kMWdcflTAXWc-kiNd-131" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="ZQ4kMWdcflTAXWc-kiNd-136" target="ZQ4kMWdcflTAXWc-kiNd-148">
+        <mxCell id="ZQ4kMWdcflTAXWc-kiNd-172" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZQ4kMWdcflTAXWc-kiNd-136" target="ZQ4kMWdcflTAXWc-kiNd-148">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZQ4kMWdcflTAXWc-kiNd-132" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="ZQ4kMWdcflTAXWc-kiNd-136" target="ZQ4kMWdcflTAXWc-kiNd-149">
+        <mxCell id="ZQ4kMWdcflTAXWc-kiNd-173" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZQ4kMWdcflTAXWc-kiNd-136" target="ZQ4kMWdcflTAXWc-kiNd-149">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZQ4kMWdcflTAXWc-kiNd-133" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="ZQ4kMWdcflTAXWc-kiNd-136" target="ZQ4kMWdcflTAXWc-kiNd-151">
+        <mxCell id="ZQ4kMWdcflTAXWc-kiNd-174" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZQ4kMWdcflTAXWc-kiNd-136" target="ZQ4kMWdcflTAXWc-kiNd-151">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZQ4kMWdcflTAXWc-kiNd-134" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="ZQ4kMWdcflTAXWc-kiNd-136" target="ZQ4kMWdcflTAXWc-kiNd-147">
+        <mxCell id="ZQ4kMWdcflTAXWc-kiNd-175" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZQ4kMWdcflTAXWc-kiNd-136" target="ZQ4kMWdcflTAXWc-kiNd-150">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZQ4kMWdcflTAXWc-kiNd-135" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="ZQ4kMWdcflTAXWc-kiNd-136" target="ZQ4kMWdcflTAXWc-kiNd-150">
+        <mxCell id="ZQ4kMWdcflTAXWc-kiNd-176" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZQ4kMWdcflTAXWc-kiNd-136" target="ZQ4kMWdcflTAXWc-kiNd-147">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZQ4kMWdcflTAXWc-kiNd-136" value="Receiver" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="293" y="326" width="73" height="35" as="geometry" />
+          <mxGeometry x="425" y="533" width="73" height="35" as="geometry" />
         </mxCell>
         <mxCell id="ZQ4kMWdcflTAXWc-kiNd-137" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;endArrow=classic;endFill=1;endSize=6;" edge="1" parent="1" source="ZQ4kMWdcflTAXWc-kiNd-138" target="ZQ4kMWdcflTAXWc-kiNd-130">
           <mxGeometry relative="1" as="geometry" />
@@ -137,7 +140,7 @@
           <mxGeometry x="423" y="751" width="117" height="35" as="geometry" />
         </mxCell>
         <mxCell id="ZQ4kMWdcflTAXWc-kiNd-140" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.video_projector;" vertex="1" parent="1">
-          <mxGeometry x="393" y="551" width="100" height="35" as="geometry" />
+          <mxGeometry x="266" y="533" width="100" height="35" as="geometry" />
         </mxCell>
         <mxCell id="ZQ4kMWdcflTAXWc-kiNd-141" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.monitor;" vertex="1" parent="1">
           <mxGeometry x="115" y="543.5" width="70" height="50" as="geometry" />
@@ -169,9 +172,6 @@
         <mxCell id="ZQ4kMWdcflTAXWc-kiNd-151" value="Front Right Speaker" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCFFF;strokeColor=#D79B00;" vertex="1" parent="1">
           <mxGeometry x="385" y="225" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZQ4kMWdcflTAXWc-kiNd-152" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=50;entryDy=50;entryPerimeter=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="ZQ4kMWdcflTAXWc-kiNd-136" target="ZQ4kMWdcflTAXWc-kiNd-145">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ZQ4kMWdcflTAXWc-kiNd-153" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=classic;endFill=1;endSize=6;" edge="1" parent="1" source="ZQ4kMWdcflTAXWc-kiNd-154" target="ZQ4kMWdcflTAXWc-kiNd-130">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="343" y="730.5" as="targetPoint" />
@@ -193,7 +193,7 @@
             <mxGeometry x="580" y="235" width="190" height="395" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="ZQ4kMWdcflTAXWc-kiNd-167" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="ZQ4kMWdcflTAXWc-kiNd-136" target="ZQ4kMWdcflTAXWc-kiNd-140">
+        <mxCell id="ZQ4kMWdcflTAXWc-kiNd-167" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="ZQ4kMWdcflTAXWc-kiNd-136" target="ZQ4kMWdcflTAXWc-kiNd-140">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZQ4kMWdcflTAXWc-kiNd-168" value="HDMI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZQ4kMWdcflTAXWc-kiNd-167">
